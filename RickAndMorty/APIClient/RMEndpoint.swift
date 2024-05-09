@@ -7,7 +7,6 @@
 
 import Foundation
 
-
 /// Represents unique API endpoint
 @frozen enum RMEndpoint: String {
     /// Endpoint to get character info
